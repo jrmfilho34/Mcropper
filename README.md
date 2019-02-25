@@ -109,7 +109,7 @@ const app = new Vue({
 
 ## Authors
 
-* **Miliano Fernandes de Oliveira Junior** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Miliano Fernandes de Oliveira Junior** - *Initial work* - [jrmfilho34](https://github.com/jrmfilho34)
 
 
 ## Agradecimentos
